@@ -9,3 +9,9 @@ def my_function():
     return 'hi'
 
 print('hi')
+print('hi')
+print('hi')
+print('hi')
+print('hi')
+print('hi')
+print('hi')
