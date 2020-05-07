@@ -6,7 +6,7 @@ def hi_there():
     print('Hi')
 
 def my_function():
-    return 'hi'
+    return 'My local change'
 
 print('hi')
 print('hi')
