@@ -6,7 +6,7 @@ def hi_there():
     print('Hi')
 
 def my_function():
-    return 'hi'
+    return 'Update python function with merge conflice code'
 
 print('hi')
 print('hi')
